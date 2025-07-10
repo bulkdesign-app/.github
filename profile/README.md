@@ -5,12 +5,12 @@ BulkDesign is an API‑first, template‑driven image generation platform built 
 - **Generate thousands of branded images in seconds** via a simple REST API  
 - **Design once, use everywhere** with our drag‑and‑drop template editor (layers, filters, smart layouts)  
 - **Personalize at scale** using dynamic variables for text, colors, and images  
-- **Export in any format** (PNG, JPG, PDF, SVG) with batch processing and automatic optimization  
+- **Export in any format** (PNG, JPG, PDF, WEBP) with batch processing and automatic optimization  
 - **Integrate seamlessly** through SDKs, webhooks, and comprehensive API documentation  
 
 ## Key Features
 
-1. **Fast API Response** – 1–10 s per batch  
+1. **Fast API Response** – 200ms–2s per batch  
 2. **Unlimited Scale** – auto‑scaling from dozens to hundreds of thousands of images  
 3. **Multi‑Format Export** – support for all common image and vector formats  
 4. **Brand Consistency** – maintain perfect brand guidelines across all outputs  
